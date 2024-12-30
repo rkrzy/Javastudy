@@ -1,2 +1,4 @@
-# Javastudy
-자바언어에 대한 공부를 기록한 저장소입니다.
+# Java language Study
+## 교재 : 자바의 정석
+
+
